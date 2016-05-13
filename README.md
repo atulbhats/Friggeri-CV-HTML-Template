@@ -13,9 +13,9 @@
  Check for demo at [atulbhats.com](http://atulbhats.com/demo/cv/)
  
  Credits:
- Friggeri CV 
- Bootstrap v3.3.6 (Used Through CDN)
- FontAwesome v4.6.2 (Used Through CDN)
+ - Friggeri CV 
+ - Bootstrap v3.3r.6 (Used Through CDN)
+ - FontAwesome v4.6.2 (Used Through CDN)
  
  
  
