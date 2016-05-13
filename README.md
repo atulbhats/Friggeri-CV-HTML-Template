@@ -7,6 +7,7 @@
  Edit the necessary info. 
  Print or Save as HTML. 
  
+ Check for demo at [atulbhats.com](http://atulbhats.com/demo/cv/)
  
  Credits:
  Friggeri CV 
