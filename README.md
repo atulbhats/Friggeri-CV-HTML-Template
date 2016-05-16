@@ -10,7 +10,7 @@
  Edit the necessary info. 
  Print or Save as HTML. 
  
- Check for demo at [atulbhats.com](http://atulbhats.com/demo/cv/)
+ Check for demo at [my github page](http://atulbhats.github.io/friggeri)
  
  Credits:
  - Friggeri CV 
