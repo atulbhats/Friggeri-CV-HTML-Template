@@ -11,7 +11,7 @@
  -Manage page breaks.  
  -Print or Save as HTML. 
  
- Check for demo at [my github page](http://atulbhats.github.io/friggeri)
+ Check for sample [here](http://atulbhats.github.io/friggeri)
  
  ***Credits:***
  - Friggeri CV 
